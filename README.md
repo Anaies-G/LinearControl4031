@@ -26,7 +26,7 @@ To use the code in this repository, you will need the following:
 **Steps:**
 
 1.  Clone the repository: `git clone https://github.com/yourusername/LinearControl4031.git`
-2.  Navigate to the specific directory (e.g., `cd Homework1`).
+2.  Navigate to the specific directory
 
     *   **MATLAB:**  Open the MATLAB scripts in MATLAB or your online compiler and run them.  Refer to the comments within the scripts for specific instructions.
     *   **LaTeX:** Open the `.tex` files in your LaTeX editor (TeXworks, Overleaf, etc.) and compile them to generate the PDF documents.
