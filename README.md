@@ -4,5 +4,5 @@ It contains:
 + Lecture files presented by Dr Taghirad
 + Homeworks
 + Project
-  Both homeworks and the course project contain MATLAB and LaTeX codes.
 + Researches
+All of the assignments contain MATLAB and LaTeX codes.
