@@ -17,20 +17,20 @@ All assignments and projects include MATLAB and LaTeX code.  Please see the indi
 
 ## How to Use
 
-(Optional: Add instructions on how to build, run, or use your code.  For example:)
+To use the code in this repository, you will need the following:
+
+1.  **MATLAB:** The MATLAB scripts require a working installation of MATLAB.  You can also use an online MATLAB compiler if you don't have MATLAB installed locally.
+
+2.  **LaTeX Compiler:** The LaTeX documents require a LaTeX compiler.  Popular options include TeXworks, Overleaf (an online LaTeX editor), or other LaTeX distributions.
+
+**Steps:**
 
 1.  Clone the repository: `git clone https://github.com/yourusername/LinearControl4031.git`
 2.  Navigate to the specific directory (e.g., `cd Homework1`).
-3.  (Add specific instructions for running MATLAB scripts or compiling LaTeX documents.)
 
-## License
-
-(Optional: Add a license if you want to specify how others can use your code.  For example, you could add a MIT License file and then include this line:)
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+    *   **MATLAB:**  Open the MATLAB scripts in MATLAB or your online compiler and run them.  Refer to the comments within the scripts for specific instructions.
+    *   **LaTeX:** Open the `.tex` files in your LaTeX editor (TeXworks, Overleaf, etc.) and compile them to generate the PDF documents.
 
 ## Contact
 
-(Optional: Add your contact information if you want others to be able to reach you.)
-
-Feel free to contact me at [your.email@example.com](mailto:your.email@example.com) with any questions.
+Feel free to contact me at [anaies.g.2004@gmail.com](mailto:anaies.g.2004@gmail.com) with any questions.
